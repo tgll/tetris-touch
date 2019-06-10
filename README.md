@@ -2,7 +2,7 @@
 
 ### HCID
 
-Vases Voices
+Tetris Touch
 ------------
 
 **Gestural and Mobile Interactions group project (1st Year of Master degree in Universite Paris-Saclay)**
